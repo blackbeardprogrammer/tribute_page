@@ -1,0 +1,21 @@
+html {
+  background-color: #212c39;
+}
+
+body {
+  color: #E3E5E6;
+  text-align: center;
+}
+
+a {
+  color: #B88ACC;
+}
+
+a:visited {
+  color: red;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
